@@ -1,9 +1,9 @@
 [
   {
-    "name": "flatten_4",
+    "name": "flatten_6",
     "type": "Flatten",
     "config": {
-      "name": "flatten_4",
+      "name": "flatten_6",
       "trainable": true,
       "dtype": {
         "module": "keras",
@@ -18,10 +18,10 @@
     "weights": []
   },
   {
-    "name": "dense_22",
+    "name": "dense_34",
     "type": "Dense",
     "config": {
-      "name": "dense_22",
+      "name": "dense_34",
       "trainable": true,
       "dtype": {
         "module": "keras",
@@ -54,15 +54,15 @@
       "bias_constraint": null
     },
     "weights": [
-      "dense_22_0",
-      "dense_22_1"
+      "dense_34_0",
+      "dense_34_1"
     ]
   },
   {
-    "name": "dense_23",
+    "name": "dense_35",
     "type": "Dense",
     "config": {
-      "name": "dense_23",
+      "name": "dense_35",
       "trainable": true,
       "dtype": {
         "module": "keras",
@@ -95,15 +95,15 @@
       "bias_constraint": null
     },
     "weights": [
-      "dense_23_0",
-      "dense_23_1"
+      "dense_35_0",
+      "dense_35_1"
     ]
   },
   {
-    "name": "dense_24",
+    "name": "dense_36",
     "type": "Dense",
     "config": {
-      "name": "dense_24",
+      "name": "dense_36",
       "trainable": true,
       "dtype": {
         "module": "keras",
@@ -136,15 +136,15 @@
       "bias_constraint": null
     },
     "weights": [
-      "dense_24_0",
-      "dense_24_1"
+      "dense_36_0",
+      "dense_36_1"
     ]
   },
   {
-    "name": "dense_25",
+    "name": "dense_37",
     "type": "Dense",
     "config": {
-      "name": "dense_25",
+      "name": "dense_37",
       "trainable": true,
       "dtype": {
         "module": "keras",
@@ -177,15 +177,15 @@
       "bias_constraint": null
     },
     "weights": [
-      "dense_25_0",
-      "dense_25_1"
+      "dense_37_0",
+      "dense_37_1"
     ]
   },
   {
-    "name": "dense_26",
+    "name": "dense_38",
     "type": "Dense",
     "config": {
-      "name": "dense_26",
+      "name": "dense_38",
       "trainable": true,
       "dtype": {
         "module": "keras",
@@ -218,15 +218,15 @@
       "bias_constraint": null
     },
     "weights": [
-      "dense_26_0",
-      "dense_26_1"
+      "dense_38_0",
+      "dense_38_1"
     ]
   },
   {
-    "name": "dense_27",
+    "name": "dense_39",
     "type": "Dense",
     "config": {
-      "name": "dense_27",
+      "name": "dense_39",
       "trainable": true,
       "dtype": {
         "module": "keras",
@@ -259,8 +259,8 @@
       "bias_constraint": null
     },
     "weights": [
-      "dense_27_0",
-      "dense_27_1"
+      "dense_39_0",
+      "dense_39_1"
     ]
   }
 ]
